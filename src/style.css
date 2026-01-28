@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@theme {
+  --color-didask-primary: #6366f1;
+  --color-didask-secondary: #8b5cf6;
+  --color-didask-accent: #06b6d4;
+  --color-didask-dark: #1e1b4b;
+  --color-didask-light: #f8fafc;
+  --color-didask-text: #334155;
+  --color-didask-muted: #64748b;
+  
+  --font-family-sans: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-family-sans);
+}
+
