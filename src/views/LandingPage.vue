@@ -9,7 +9,7 @@
           </div>
           <div class="hidden md:flex items-center space-x-8">
             <a href="#features" class="text-didask-text hover:text-didask-primary transition">Fonctionnalités</a>
-            <a href="#testimonials" class="text-didask-text hover:text-didask-primary transition">Témoignages</a>
+            <a href="#testimonials" class="text-didask-text hover:text-didask-primary transition">Témoignage</a>
             <a href="#pricing" class="text-didask-text hover:text-didask-primary transition">Tarif</a>
           </div>
         </div>
